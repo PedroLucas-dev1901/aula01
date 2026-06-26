@@ -1,1 +1,2 @@
-# aula01
+# aula01 
+O programa cadastra o nome do cliente e o valor da compra. Se a compra for maior que R$ 100,00, ele aplica um desconto de 10% caso contrário, não aplica desconto. calcula e mostra o valor final da compra. Depois, pergunta se o usuário deseja realizar outro atendimento. Se a resposta for "S", o programa repete todo o processo. Se a resposta for "N", o programa encerra exibindo a mensagem "Programa encerrado
